@@ -1,8 +1,9 @@
-Qtd;Cor;Valor;Data;Total
-2;Preto (PLA);R$ 120,00;28/03/20;R$ 240,00
-2;Branco (PLA);R$ 120,00;28/03/20;R$ 240,00
-1;Frete (Loggi);R$ 73,72;30/03/20;R$ 73,72
-1;Acetato (90 folhas);R$ 509,10;31/03/20;R$ 509,10
-1;Borracha silicone;R$ 79,90;02/04/20;R$ 79,90
-1;Resina Epoxi;R$ 106,90;02/04/20;R$ 106,90
-1;Acetato (2 folhas grandes);R$ 157,90;02/04/20;R$ 157,90
+Qtd;Descrição;Valor;Data;Total
+1;Frete (Loggi);R$ 73,72;30/03;R$ 73,72
+1;Acetato (90 folhas);R$ 509,10;31/03;R$ 509,10
+1;Borracha silicone;R$ 79,90;02/04;R$ 79,90
+1;Resina Epoxi;R$ 106,90;02/04;R$ 106,90
+1;Acetato (2 folhas grandes);R$ 157,90;02/04;R$ 157,90
+1;Material para molde;R$ 102,58;04/04;R$ 102,58
+1;Borracha silicone;R$ 36,90;06/04;R$ 36,90
+2;Plastilina;R$ 18,90;06/04;R$ 37,80
